@@ -1,5 +1,5 @@
-# Yuma
+# CoPDA
 
-By Xiang Fu and Bo Feng
+By [Xiang Fu](https://xfu.fufoundation.co) and [Bo Feng](https://sites.google.com/view/bfeng/homepage)
 
-Code for Yuma - Large-Scale Data Analysis System for Chinese Government Policy Documents
+Code for CoPDA - Large-Scale Analytics System for Computational Policy Document Analysis of Chinese Government Policy Documents
